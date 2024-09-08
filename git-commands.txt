@@ -1,4 +1,4 @@
-  1        0.276 try { . "c:\Users\amita\AppData\Local\Programs\Micr… 
+   1        0.276 try { . "c:\Users\amita\AppData\Local\Programs\Micr…
    2        0.072 python testing.py
    3        0.025 ls
    4        0.024 rm testing.py
@@ -17,8 +17,8 @@
   17        0.077 git add testing.py
   18        0.052 git status
   19        0.090 git commit -m "added test file"
-  20        0.066 git config --global user.email "amitabhdevops2024@g… 
-  21        0.062 git config --global user.name "Amitabh-DevOps"       
+  20        0.066 git config --global user.email "amitabhdevops2024@g…
+  21        0.062 git config --global user.name "Amitabh-DevOps"
   22        0.184 git commit -m "added test file"
   23        0.054 git status
   24        0.002 rm testing.py
@@ -41,3 +41,18 @@
   41        0.065 git commit -m "added test file"
   42        0.006 ls
   43        0.053 git status
+  44        0.062 history
+  45        0.116 cler
+  46        0.001 clear
+  47        0.058 git add .
+  48        0.055 git status
+  49        0.123 git commit -m "command file"
+  50        0.006 ls
+  51        0.080 git remote add origin https://github.com/Amitabh-De… 
+  52        0.061 git remote -v
+  53       19.724 git push origin master
+  54        0.073 git remote set-url origin https://ghp_K35VhIJiolFOH… 
+  55        0.051 git remote -v
+  56        1.688 git push origin master
+  57        0.001 clear
+  58        0.002 clear
