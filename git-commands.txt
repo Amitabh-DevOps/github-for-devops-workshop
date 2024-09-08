@@ -1,0 +1,43 @@
+  1        0.276 try { . "c:\Users\amita\AppData\Local\Programs\Micr… 
+   2        0.072 python testing.py
+   3        0.025 ls
+   4        0.024 rm testing.py
+   5        0.002 ls
+   6        0.052 clear
+   7        0.117 git init
+   8        0.112 ls -a
+   9        0.009 dir
+  10        0.033 dir -a
+  11        0.003 clear
+  12        0.036 ls -ltr
+  13        0.002 clear
+  14        0.002 dir
+  15        0.066 git status
+  16        0.053 git status
+  17        0.077 git add testing.py
+  18        0.052 git status
+  19        0.090 git commit -m "added test file"
+  20        0.066 git config --global user.email "amitabhdevops2024@g… 
+  21        0.062 git config --global user.name "Amitabh-DevOps"       
+  22        0.184 git commit -m "added test file"
+  23        0.054 git status
+  24        0.002 rm testing.py
+  25        0.002 ls
+  26        0.072 git restore testing.py
+  27        0.009 ls
+  28        0.002 rm testing.py
+  29        0.002 ls
+  30        0.071 git status
+  31        0.063 git restore
+  32        0.069 git restore .
+  33        0.006 ls
+  34        0.002 rm testing.py
+  35        0.002 ls
+  36        0.086 git status
+  37        0.057 git restore .
+  38        0.007 ls
+  39        0.066 git add .
+  40        0.058 git status
+  41        0.065 git commit -m "added test file"
+  42        0.006 ls
+  43        0.053 git status
